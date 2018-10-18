@@ -1,0 +1,9 @@
+touch readme.md
+echo TEXT > readme.md
+cat readme.md
+echo "& Words" >> readme.md
+cat readme.md
+touch readme.md
+echo "New Line" > readme1.md
+cat readme.md
+exit
